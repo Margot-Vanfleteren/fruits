@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Banane",
+        "description": "This is my favorite fruit",
+        "price": 1.99,
+        "image": "https://example.com/image1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Apple",
+        "description": "This is my second favorite fruit",
+        "price": 2.99,
+        "image": "https://example.com/image2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pineapple",
+        "description": "This is my third favorite fruit",
+        "price": 1.99,
+        "image": "https://example.com/image1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pear",
+        "description": "This is my fourth favorite fruit",
+        "price": 2.99,
+        "image": "https://example.com/image2.jpg"
+    },{
+        "id": 5,
+        "name": "Tomato",
+        "description": "This is my fifth favorite fruit",
+        "price": 1.99,
+        "image": "https://example.com/image1.jpg"
+    }
+    
+]
