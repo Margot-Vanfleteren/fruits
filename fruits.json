@@ -25,7 +25,7 @@
         "name": "Pear",
         "description": "This is my fourth favorite fruit",
         "price": 2.99,
-        "image": https://www.academiedugout.fr/images/17155/1200-auto/poire_000.jpg"
+        "image": "https://media.gerbeaud.net/2008/poire-2.jpg"
     },{
         "id": 5,
         "name": "Tomato",
